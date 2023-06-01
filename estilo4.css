@@ -1275,9 +1275,9 @@ letter-spacing: 5px;
 
 
     .linhe {
-        margin-top: 80px;
+        margin-top: 60px;
         margin-left: 80px;
-        height: 55px;
+        height: 35px;
         width: 2px;
         color: transparent;
         background-color: #454545;
@@ -1288,7 +1288,7 @@ letter-spacing: 5px;
 
     .princ0 {
         margin-left: 45px;
-        margin-top: 80px;
+        margin-top: 60px;
         width: 700px;
         height: 700px;
         position: relative;
@@ -1300,8 +1300,8 @@ letter-spacing: 5px;
         .princ0 img {
             background:transparent;
             border-radius:10%;
-            max-width: 50px;
-            max-height: 50px;
+            max-width: 40px;
+            max-height: 40px;
             box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
             
     
@@ -1360,7 +1360,7 @@ letter-spacing: 5px;
             margin-top: 120px;
             background-color: #fcf8f8;
              width: 400px;
-            height: 100px;
+            height: 60px;
             border-radius: 0px 20px 0px 20px;
             color: transparent;
             display: table;
@@ -1370,10 +1370,10 @@ letter-spacing: 5px;
 
         .caixa {
             margin-left: 600px;
-            margin-top: 250px;
+            margin-top: 200px;
             background-color: #e7e7e7;
              width: 400px;
-            height: 170px;
+            height: 130px;
             border-radius: 15px;
             color: transparent;
             display: table;
@@ -1384,10 +1384,10 @@ letter-spacing: 5px;
 
         .caixa2 {
             margin-left: 600px;
-            margin-top: 430px;
+            margin-top: 345px;
             background-color: #e7e7e7;
             width: 400px;
-            height: 170px;
+            height: 140px;
             border-radius: 15px;
             color: transparent;
             display: table;
@@ -1398,10 +1398,10 @@ letter-spacing: 5px;
 
         .caixa3 {
             margin-left: 600px;
-            margin-top: 613px;
+            margin-top: 495px;
             background-color: #e7e7e7;
             width: 400px;
-            height: 200px;
+            height: 120px;
             border-radius: 15px;
             color: transparent;
             display: table;
@@ -1410,9 +1410,21 @@ letter-spacing: 5px;
 
 
         .caixa4 {
-            margin-left: 350px;
-            margin-top: 620px;
-            background-color: transparent;
+            margin-left: 600px;
+            margin-top: 630px;
+            background-color: #e7e7e7;
+            width: 400px;
+            height: 120px;
+            border-radius: 15px;
+            color: transparent;
+            display: table;
+            position: fixed;
+        }
+
+        .caixa5 {
+            margin-left: 600px;
+            margin-top: 763px;
+            background-color: #e7e7e7;
             width: 400px;
             height: 120px;
             border-radius: 15px;
@@ -1518,7 +1530,7 @@ letter-spacing: 5px;
         }
 
         .princask {
-            margin-top: 70px;
+            margin-top: 50px;
             margin-left:90px;
             width: 200px;
             height: 25px;
@@ -1651,6 +1663,10 @@ letter-spacing: 5px;
     border-radius: 100%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
+
+
+
 
 
 
