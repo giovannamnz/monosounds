@@ -1300,7 +1300,19 @@ letter-spacing: 5px;
         }
 
         .caixa5 {
-            margin-left: 45%;
+            margin-left: 40%;
+            margin-top: 120px;
+            background-color: transparent;
+            width: 400px;
+            height: 120px;
+            border-radius: 15px;
+            color: transparent;
+            display: table;
+            position: fixed;
+        }
+
+        .caixa12 {
+            margin-left: 58%;
             margin-top: 120px;
             background-color: transparent;
             width: 400px;
@@ -1324,7 +1336,19 @@ letter-spacing: 5px;
         }
 
         .caixa6 {
-            margin-left: 45%;
+            margin-left: 40%;
+            margin-top: 280px;
+            background-color: transparent;
+            width: 400px;
+            height: 120px;
+            border-radius: 15px;
+            color: transparent;
+            display: table;
+            position: fixed;
+        }
+
+        .caixa11 {
+            margin-left: 58%;
             margin-top: 280px;
             background-color: transparent;
             width: 400px;
@@ -1348,7 +1372,19 @@ letter-spacing: 5px;
         }
 
         .caixa7 {
-            margin-left: 45%;
+            margin-left: 40%;
+            margin-top: 450px;
+            background-color: transparent;
+            width: 400px;
+            height: 120px;
+            border-radius: 15px;
+            color: transparent;
+            display: table;
+            position: fixed;
+        }
+
+        .caixa10 {
+            margin-left: 58%;
             margin-top: 450px;
             background-color: transparent;
             width: 400px;
@@ -1372,7 +1408,19 @@ letter-spacing: 5px;
         }
 
         .caixa8 {
-            margin-left: 45%;
+            margin-left: 40%;
+            margin-top: 620px;
+            background-color: transparent;
+            width: 400px;
+            height: 120px;
+            border-radius: 15px;
+            color: transparent;
+            display: table;
+            position: fixed;
+        }
+
+        .caixa9 {
+            margin-left: 58%;
             margin-top: 620px;
             background-color: transparent;
             width: 400px;
@@ -1544,5 +1592,7 @@ letter-spacing: 5px;
     border-radius: 100%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
+
 
 
