@@ -743,69 +743,187 @@ body {
     z-index: 999999;
 }
 
-
-.player {
+.faq {
+    margin-top:5px;
+    margin-left:50px;
+    text-decoration: none; 
+    color: rgb(48, 47, 47);
+    width: 1000px;
+    height: 50px;
     position: fixed;
-    bottom: 37px;
-    right: 220px;
-    width: 17px;
-    height: 14px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    padding: 1px;
-    background-color: #fff;
-    font-size: 10px;
-    border-radius: 100%;
-    text-align: center;
-    padding-top: 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    text-shadow: #000000;
+    letter-spacing: 2px;
+    }
+    
+    .faq a {
+    text-decoration: none;
+    }
 
+    .mitens5 {
+        margin-top:15px;
+        text-decoration: none; 
+        width:auto;
+        height: 20px;
+        position: fixed;
+        font-family: 'Sora', sans-serif;
+        text-transform: uppercase;
+        text-shadow: #000000;
+        letter-spacing: 2px;
+        font-size: 15px;
+        padding-top: 5px;
+        border-radius: 5px 0px 5px 0px;
+        padding-left: 3px;
+        
+        
+        }
+        
+        .mitens5 a {
+        color: rgb(48, 47, 47);
+        }
 
-}
+        .mitens5 a:hover {
+            color:#000;
+            transition: 1s;
+            font-size: 16px;
+            }
 
-.player a {
-    color: #000000;
-}
+        .mitens6 {
+            margin-top:48px;
+            text-decoration: none; 
+            width:auto;
+            height: 20px;
+            position: fixed;
+            font-family: 'Sora', sans-serif;
+            text-transform: uppercase;
+            text-shadow: #000000;
+            letter-spacing: 2px;
+            font-size: 15px;
+            padding-top: 5px;
+            border-radius: 5px 0px 5px 0px;
+            padding-left: 3px;
+            
+            }
+            
+            .mitens6 a {
+            color: rgb(48, 47, 47);
+            }
 
-.player2 {
-    position: fixed;
-    bottom: 37px;
-    right: 190px;
-    width: 17px;
-    height: 14px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    padding: 1px;
-    background-color: #fff;
-    font-size: 10px;
-    border-radius: 100%;
-    text-align: center;
-    padding-top: 5px;
+            .mitens6 a:hover {
+                color:#000;
+                transition: 1s;
+                font-size: 16px;
+                }
+            
+            .mitens7 {
+            margin-top:82px;
+            text-decoration: none; 
+            width:auto;
+            height: 20px;
+            position: fixed;
+            font-family: 'Sora', sans-serif;
+            text-transform: uppercase;
+            text-shadow: #000000;
+            letter-spacing: 2px;
+            font-size: 15px;
+            padding-top: 5px;
+            border-radius: 5px 0px 5px 0px;
+            padding-left: 3px;
+            
+            }
+            
+            .mitens7 a {
+            color: rgb(48, 47, 47);
+            }
 
+            .mitens7 a:hover {
+                color:#000;
+                transition: 1s;
+                font-size: 16px;
+                }
+            
+            .mitens8 {
+            margin-top:116px;
+            text-decoration: none; 
+            width:auto;
+            height: 20px;
+            position: fixed;
+            font-family: 'Sora', sans-serif;
+            text-transform: uppercase;
+            text-shadow: #000000;
+            letter-spacing: 2px;
+            font-size: 15px;
+            padding-top: 5px;
+            border-radius: 5px 0px 5px 0px;
+            padding-left: 3px;
+            
+            }
+            
+            .mitens8 a {
+            color: rgb(48, 47, 47);
+            }
 
-}
+            .mitens8 a:hover {
+                color:#000;
+                transition: 1s;
+                font-size: 16px;
+                }
 
-.player2 a {
-    color: #000000;
-}
-
-.player3 {
-    position: fixed;
-    bottom: 37px;
-    right: 160px;
-    width: 17px;
-    height: 14px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-    padding: 1px;
-    background-color: #fff;
-    font-size: 10px;
-    border-radius: 100%;
-    text-align: center;
-    padding-top: 5px;
-
-
-}
-
-.player3 a {
-    color: #000000;
-}
+                .mitens9 {
+                    margin-top:150px;
+                    text-decoration: none; 
+                    width:auto;
+                    height: 20px;
+                    position: fixed;
+                    font-family: 'Sora', sans-serif;
+                    text-transform: uppercase;
+                    text-shadow: #000000;
+                    letter-spacing: 2px;
+                    font-size: 15px;
+                    padding-top: 5px;
+                    border-radius: 5px 0px 5px 0px;
+                    padding-left: 3px;
+                    
+                    }
+                    
+                    .mitens9 a {
+                    color: rgb(48, 47, 47);
+                    }
+        
+                    .mitens9 a:hover {
+                        color:#000;
+                        transition: 1s;
+                        font-size: 16px;
+                        }   
+                        
+                        .mitens10 {
+                            margin-top:183px;
+                            text-decoration: none; 
+                            width:auto;
+                            height: 20px;
+                            position: fixed;
+                            font-family: 'Sora', sans-serif;
+                            text-transform: uppercase;
+                            text-shadow: #000000;
+                            letter-spacing: 2px;
+                            font-size: 15px;
+                            padding-top: 5px;
+                            border-radius: 5px 0px 5px 0px;
+                            padding-left: 3px;
+                            
+                            }
+                            
+                            .mitens10 a {
+                            color: rgb(48, 47, 47);
+                            }
+                
+                            .mitens10 a:hover {
+                                color:#000;
+                                transition: 1s;
+                                font-size: 16px;
+                                }  
+        
 
 /* Spinner CSS */
 @keyframes spinner {
@@ -1232,48 +1350,15 @@ letter-spacing: 5px;
 
 
 .princ {
-    margin-top: 180px;
-    margin-left: 450px;
+    margin-top: 150px;
+    margin-left: 350px;
     width: 700px;
     height: 700px;
     position: fixed;
     border-radius:10%;
     padding-right: 10px;
-    display: flex;
-     justify-content: space-between;
-    }
-    
-    .princ img {
-        background:transparent;
-        border-radius:10%;
-        max-width: 200px;
-        max-height: 200px;
-        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        
-
     }
 
-    .princ2 {
-        margin-top: 450px;
-        margin-left: 450px;
-        width: 700px;
-        height: 700px;
-        position: fixed;
-        border-radius:10%;
-        padding-right: 10px;
-        display: flex;
-         justify-content: space-between;
-        }
-        
-        .princ2 img {
-            background:transparent;
-            border-radius:10%;
-            max-width: 200px;
-            max-height: 200px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-            
-    
-        }
 
       
 ::selection {
@@ -1365,5 +1450,6 @@ letter-spacing: 5px;
     border-radius: 100%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
 
 
