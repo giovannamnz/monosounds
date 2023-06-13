@@ -1308,8 +1308,8 @@ letter-spacing: 5px;
         }
 
         .prinplay {
-            margin-top: 5px;
-            margin-left:60px;
+            margin-top: -3px;
+            margin-left:55px;
             width: 200px;
             height: 25px;
             color: #454545;
@@ -1322,8 +1322,8 @@ letter-spacing: 5px;
         }
 
         .prinplaya {
-            margin-top: 20px;
-            margin-left:60px;
+            margin-top: 18px;
+            margin-left:55px;
             width: 200px;
             height: 25px;
             color: #454545;
@@ -1663,6 +1663,10 @@ letter-spacing: 5px;
     border-radius: 100%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
+
+
+
 
 
 
