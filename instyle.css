@@ -1253,7 +1253,7 @@ transition: all 0.7s ease-out;
 }
 
 .princ img:hover {
-    box-shadow: inset 450px 0px #d1d1d1;
+    box-shadow: inset 450px 0px #444;
     -webkit-transition: all 0.7s ease-out;
     -moz-transition: all 0.7s ease-out;
     -ms-transition: all 0.7s ease-out;
@@ -1286,7 +1286,7 @@ transition: all 0.7s ease-out;
 }
 
 .princ2 img:hover {
-    box-shadow: inset 200px 0px #d1d1d1;
+    box-shadow: inset 200px 0px #444;
     -webkit-transition: all 0.7s ease-out;
     -moz-transition: all 0.7s ease-out;
     -ms-transition: all 0.7s ease-out;
@@ -1318,7 +1318,7 @@ transition: all 0.7s ease-out;
 }
 
 .princ3 img:hover {
-    box-shadow: inset 180px 0px #d1d1d1;
+    box-shadow: inset 180px 0px #444;
     -webkit-transition: all 0.7s ease-out;
     -moz-transition: all 0.7s ease-out;
     -ms-transition: all 0.7s ease-out;
@@ -1350,7 +1350,7 @@ transition: all 0.7s ease-out;
 }
 
 .princ4 img:hover {
-    box-shadow: inset 180px 0px #d1d1d1;
+    box-shadow: inset 180px 0px #444;
     -webkit-transition: all 0.7s ease-out;
     -moz-transition: all 0.7s ease-out;
     -ms-transition: all 0.7s ease-out;
@@ -1372,7 +1372,7 @@ font-weight: bold;
 
 .princart {
 margin-top: 290px;
-margin-left: 450px;
+margin-left: 455px;
 width: 200px;
 height: 100px;
 position: fixed;
@@ -1470,5 +1470,8 @@ font-size: 25px;
     border-radius: 100%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
+
+
 
 
